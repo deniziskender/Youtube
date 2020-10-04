@@ -1,0 +1,10 @@
+Aþaðýdakilerden hangisi Java'da kullanýlmayan bir anahtar kelimedir?;import;new;for;console;console
+Aþaðýdakilerden hangisi yorum satýrý eklemede kullanýlýr?;/* Bu bir yorum satýrýdýr.;// Bu bir yorum satýrýdýr.;# Bu bir yorum satýrýdýr.;[ Bu bir yorum satýrýdýr. ];// Bu bir yorum satýrýdýr.
+Stringlerin uzunluðunu bulmayý saðlayan metod hangisidir?;getLength();size();length();getSize();length()
+Stringleri büyük harfe çevirmek için kullanýlan metod hangisidir?;touppercase();uppercase();toUpperCase();tuc();toUpperCase()
+Float deðiþkenlerin varsayýlan deðeri nedir?;0.0d;0.0f;0;tanýmsýz;0.0f
+Aþaðýdakilerden hangisi Java'da ilkel veri tipi deðildir?;int;float;bool;double;bool
+Main metodun sözdizimi kuralý (syntax) hangisidir?;public static int main(String[] args);public int main(String[] args);public static void main();public static void main(String[] args);public static void main(String[] args)
+Deðiþken tanýmlamalarýnda hangisine ihtiyaç yoktur?;noktalý virgül;veri tipi;deðiþken adý;eþitleme;eþitleme
+Stringler == operatörü ile kontrol edilir?;doðru;yanlýþ;;;yanlýþ
+Stringler tek týrnak ile yaratýlabilir.;doðru;yanlýþ;;;yanlýþ
